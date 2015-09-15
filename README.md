@@ -3,4 +3,5 @@ This replica of the periodic table was done using only HTML and CSS. Created usi
 Tools Used:
 
 •	HTML
+
 •	CSS
